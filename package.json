@@ -1,11 +1,10 @@
 {
   "name": "dontmovie-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "fake server with fake database",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "nobody",
   "license": "ISC",

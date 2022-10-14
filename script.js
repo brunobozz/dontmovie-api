@@ -4,11 +4,15 @@ const fs = require("fs");
 console.log("startou");
 console.log(data.users);
 
-let id = 1;
+// ADD ID
+// let id = 1;
+// data.movies.forEach((movie) => {
+//   movie.id = id;
+//   id++;
+// });
 
 data.movies.forEach((movie) => {
-  movie.id = id;
-  id++;
+  delete movie.tvg;
 });
 
 let newData = JSON.stringify(data);

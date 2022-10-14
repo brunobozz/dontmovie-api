@@ -1,12 +1,11 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const routerMovies = jsonServer.router("data/movies.json");
-const routerUsers = jsonServer.router("data/users.json");
+const routerData = jsonServer.router("data/data.js");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3200;
 
 server.use(middlewares);
 
-server.use(routerMovies, routerUsers);
+server.use(routerData);
 
 server.listen(port);

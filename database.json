@@ -6,7 +6,7 @@
       "email": "brunobozz@gmail.com",
       "username": "brunobozz",
       "password": "ihy2535",
-      "favorites": [],
+      "favorites": [1026, 1027, 1028, 498],
       "blacklist": [],
       "id": 1
     },
@@ -16,7 +16,7 @@
       "email": "theotournn@gmail.com",
       "username": "theotournn",
       "password": "123456",
-      "favorites": [],
+      "favorites": [462, 563, 352, 1278],
       "blacklist": [],
       "id": 2
     },
@@ -26,7 +26,7 @@
       "email": "joannasfraga@gmail.com",
       "username": "joannasfraga",
       "password": "21032010",
-      "favorites": [],
+      "favorites": [4068, 203],
       "blacklist": [],
       "id": 3
     }

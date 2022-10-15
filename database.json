@@ -2,10 +2,10 @@
   "users": [
     {
       "name": "Bruno Tourn Bozzetti",
-      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGXgR90ASjVhA/profile-displayphoto-shrink_400_400/0/1626186923033?e=1669852800&v=beta&t=OXI9LM2Y-m3aQrVuF40BcL4JrI0guTJ5Prj8EqXwCXI",
+      "image": "https://yt3.ggpht.com/ytc/AMLnZu_W1AqO51rWsUSpJ4nwcGs4oNj_EnMJIveOQgiNWVU=s900-c-k-c0x00ffffff-no-rj",
       "email": "brunobozz@gmail.com",
       "username": "brunobozz",
-      "password": "12345",
+      "password": "ihy2535",
       "favorites": [],
       "blacklist": [],
       "id":1
@@ -16,6 +16,16 @@
       "email": "theotournn@gmail.com",
       "username": "theotournn",
       "password": "123456",
+      "favorites": [],
+      "blacklist": [],
+      "id":2
+    },
+    {
+      "name": "Joanna da Silva Fraga",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQHLsh6iMvEPZQ/profile-displayphoto-shrink_800_800/0/1599773706404?e=1671062400&v=beta&t=j1wTfXmuMHjs1gmx1MH_eufUA2rLNM0aQgE4k5-x7hk",
+      "email": "joannasfraga@gmail.com",
+      "username": "joannasfraga",
+      "password": "21032010",
       "favorites": [],
       "blacklist": [],
       "id":2

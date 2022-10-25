@@ -71,6 +71,19 @@
       "id": 3
     }
   ],
+
+  "banners": [
+    {
+      "name": "Mortal Kombat",
+      "url": "http://tbsrv.me:8880/movie/44021759161/7095381/147166.mp4",
+      "banner": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dddb8beb-7509-4c66-bc59-5e64fc25d614/dehrr3o-d49a6a43-baba-4036-8acb-5a2ee34bf97a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RkZGI4YmViLTc1MDktNGM2Ni1iYzU5LTVlNjRmYzI1ZDYxNFwvZGVocnIzby1kNDlhNmE0My1iYWJhLTQwMzYtOGFjYi01YTJlZTM0YmY5N2EuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PPtzKmJkLsy_uX2gSiittiiGRAnRG4jzb74yWwHtG10",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/9/9b/Mortal_Kombat_%28film%2C_2021%29.png",
+      "category": "Lançamentos",
+      "movie_id": 110,
+      "id": 1
+    }
+  ],
+
   "movies": [
     {
       "name": "O Cobrador de Impostos ",

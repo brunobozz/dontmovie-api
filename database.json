@@ -15,7 +15,7 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwa2dvja0EkPIcejBPghA34bOpHCYaJjmr2GurnZlouPt2YzMH4AGyvc7w6o_SsMQkoY&usqp=CAU",
       "email": "theotournn@gmail.com",
       "username": "theotournn",
-      "password": "123456",
+      "password": "sophya",
       "favorites": [],
       "blacklist": [],
       "id": 2
@@ -25,7 +25,47 @@
       "image": "https://media-exp1.licdn.com/dms/image/C4E03AQHLsh6iMvEPZQ/profile-displayphoto-shrink_800_800/0/1599773706404?e=1671062400&v=beta&t=j1wTfXmuMHjs1gmx1MH_eufUA2rLNM0aQgE4k5-x7hk",
       "email": "joannasfraga@gmail.com",
       "username": "joannasfraga",
-      "password": "21032010",
+      "password": "21032012",
+      "favorites": [],
+      "blacklist": [],
+      "id": 3
+    },
+    {
+      "name": "Lucas Nunes",
+      "image": null,
+      "email": "",
+      "username": "lucasnunes",
+      "password": "bombinhadefumaca",
+      "favorites": [],
+      "blacklist": [],
+      "id": 3
+    },
+    {
+      "name": "Gabriel Veit",
+      "image": null,
+      "email": "",
+      "username": "gabrielveit",
+      "password": "stayhigh",
+      "favorites": [],
+      "blacklist": [],
+      "id": 3
+    },
+    {
+      "name": "Kate Fraga",
+      "image": null,
+      "email": "katesfraga@gmail.com",
+      "username": "pagode",
+      "password": "",
+      "favorites": [],
+      "blacklist": [],
+      "id": 3
+    },
+    {
+      "name": "Cris Fraga",
+      "image": null,
+      "email": null,
+      "username": "crisfraga",
+      "password": "pazeamor",
       "favorites": [],
       "blacklist": [],
       "id": 3

@@ -38,7 +38,7 @@
       "password": "bombinhadefumaca",
       "favorites": [],
       "blacklist": [],
-      "id": 3
+      "id": 4
     },
     {
       "name": "Gabriel Veit",
@@ -48,7 +48,7 @@
       "password": "stayhigh",
       "favorites": [],
       "blacklist": [],
-      "id": 3
+      "id": 5
     },
     {
       "name": "Kate Fraga",
@@ -58,7 +58,7 @@
       "password": "pagode",
       "favorites": [],
       "blacklist": [],
-      "id": 3
+      "id": 6
     },
     {
       "name": "Cris Fraga",
@@ -68,7 +68,17 @@
       "password": "pazeamor",
       "favorites": [],
       "blacklist": [],
-      "id": 3
+      "id": 7
+    },
+    {
+      "name": "Marcio Machado",
+      "image": null,
+      "email": null,
+      "username": "marciomachado",
+      "password": "atlmarcio",
+      "favorites": [],
+      "blacklist": [],
+      "id": 7
     }
   ],
 

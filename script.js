@@ -59,9 +59,9 @@ console.log("startou");
 // });
 
 // =========================================== map series
-// let i = 20653;
+let i = 20653;
 data.series.forEach((media) => {
-  media.type = "serie";
+  media.id = i;
   // media.forEach((serie) => {
   // console.log(serie.name);
   // serie.id = i;
@@ -71,7 +71,7 @@ data.series.forEach((media) => {
   //   });
   // });
   // });
-  // i++;
+  i++;
 });
 
 // data.movies.forEach((media) => {

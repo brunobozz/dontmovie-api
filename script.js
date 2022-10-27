@@ -58,22 +58,25 @@ console.log("startou");
 //   return result;
 // });
 
-let i = 20653;
+// =========================================== map series
+// let i = 20653;
 data.series.forEach((media) => {
-  media.forEach((serie) => {
-    console.log(serie.name);
-    serie.id = i;
-    serie.seasons.map((season) => {
-      season.episodes.map((episode) => {
-        // console.log(season.season);
-        // serie.category = episode.category;
-        delete episode.name;
-      });
-    });
-    // console.log(serie.name);
-  });
-  i++;
+  media.type = "serie";
+  // media.forEach((serie) => {
+  // console.log(serie.name);
+  // serie.id = i;
+  // serie.seasons.map((season) => {
+  //   season.episodes.map((episode) => {
+  //     delete episode.name;
+  //   });
+  // });
+  // });
+  // i++;
 });
+
+// data.movies.forEach((media) => {
+//   media.type = "movie";
+// });
 
 let newData = JSON.stringify(data);
 

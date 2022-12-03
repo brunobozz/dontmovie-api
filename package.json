@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "iptv-playlist-parser": "^0.12.1",
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.1"
   }
 }

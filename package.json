@@ -2,11 +2,7 @@
   "name": "dontmovie-api",
   "version": "1.0.0",
   "description": "fake server with fake database",
-<<<<<<< HEAD
-  "main": "/app/index.js",
-=======
   "main": "index.js",
->>>>>>> 061c5696cda6d07feb75fae548f6b87127636784
   "scripts": {
     "start": "node index.js"
   },
@@ -14,13 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "iptv-playlist-parser": "^0.12.1",
-<<<<<<< HEAD
-    "json-server": "^0.17.0",
+    "json-server": "^0.17.1",
     "lodash": "^4.17.21",
     "string": "^3.3.3",
     "uuid": "^9.0.0"
-=======
-    "json-server": "^0.17.1"
->>>>>>> 061c5696cda6d07feb75fae548f6b87127636784
   }
 }

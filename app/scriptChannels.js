@@ -1,7 +1,6 @@
-const data = require("./lists/2023list.json");
+const data = require("../lists/2023list.json");
 const lodash = require("lodash");
 const fs = require("fs");
-const uuid = require("uuid");
 
 console.log("startou");
 //===================================================================================== CHANNELS
@@ -15,13 +14,13 @@ channels.forEach((element) => {
   let cover = element.logo;
   element.cover = cover;
   delete element.logo;
-  element.id = uuid.v4().replace("-", "");
+  element.id = Math.floor(Math.random() * 999999999999999999);
   element.category = element.category.substring("CANAIS | ".length);
   element.category = lodash
     .map(element.category.split(" "), lodash.capitalize)
     .join(" ");
 });
 channels = JSON.stringify(channels);
-fs.writeFile("./lists/2023channels.json", channels, "utf-8", () => {
+fs.writeFile("../lists/2023channels.json", channels, "utf-8", () => {
   console.log("-------- fim Channels");
 });
